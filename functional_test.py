@@ -17,13 +17,10 @@ class NewVisitorTest(unittest.TestCase):
 
         # she notices the page title and header mention to-do list
         self.assertIn('To-Do', self.browser.title)
-        self.faul('Finish the test!')
+        self.fail('Finish the test!')
 
 
 
 if __name__ == '__main__':
     unittest.main(warnings='ignore')
-
-
-
 
