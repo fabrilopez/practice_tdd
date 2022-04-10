@@ -1,2 +1,10 @@
 db.sqlite3
-__pycache__
+__pycache__/
+geckodriver.log
+*.pyc
+*.log
+.env
+.venv
+env/
+venv/
+ENV/

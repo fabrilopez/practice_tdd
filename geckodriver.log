@@ -317,3 +317,141 @@ console.error: PushService:
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+1649547323343	geckodriver	INFO	Listening on 127.0.0.1:60079
+1649547323348	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "33543" "-no-remote" "-profile" "/tmp/rust_mozprofileyqCLWd"
+Gtk-Message: 20:35:27.311: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:35:27.396: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Fontconfig warning: "/etc/fonts/conf.avail/53-monospace-lcd-filter.conf", line 10: Having multiple values in <test> isn't supported and may not work as expected
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649547376830	geckodriver	INFO	Listening on 127.0.0.1:44417
+1649547376857	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "57037" "-no-remote" "-profile" "/tmp/rust_mozprofileFYbGN3"
+Gtk-Message: 20:36:19.022: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:36:19.028: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Fontconfig warning: "/etc/fonts/conf.avail/53-monospace-lcd-filter.conf", line 10: Having multiple values in <test> isn't supported and may not work as expected
+1649547531059	geckodriver	INFO	Listening on 127.0.0.1:37911
+1649547531224	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "51113" "-no-remote" "-profile" "/tmp/rust_mozprofilefq1DCP"
+Gtk-Message: 20:38:55.950: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:38:55.969: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Fontconfig warning: "/etc/fonts/conf.avail/53-monospace-lcd-filter.conf", line 10: Having multiple values in <test> isn't supported and may not work as expected
+1649547758865	geckodriver	INFO	Listening on 127.0.0.1:57129
+1649547759414	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "56875" "-no-remote" "-profile" "/tmp/rust_mozprofileOXnHkW"
+Gtk-Message: 20:42:46.797: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:42:46.802: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Fontconfig warning: "/etc/fonts/conf.avail/53-monospace-lcd-filter.conf", line 10: Having multiple values in <test> isn't supported and may not work as expected
+1649547800805	geckodriver	INFO	Listening on 127.0.0.1:33185
+1649547800821	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "54205" "-no-remote" "-profile" "/tmp/rust_mozprofilej5O3tz"
+Gtk-Message: 20:43:21.302: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:43:21.304: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Fontconfig warning: "/etc/fonts/conf.avail/53-monospace-lcd-filter.conf", line 10: Having multiple values in <test> isn't supported and may not work as expected
+1649547813976	geckodriver	INFO	Listening on 127.0.0.1:33609
+1649547813982	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "35717" "-no-remote" "-profile" "/tmp/rust_mozprofile1kH4OI"
+Gtk-Message: 20:43:34.442: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:43:34.444: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Fontconfig warning: "/etc/fonts/conf.avail/53-monospace-lcd-filter.conf", line 10: Having multiple values in <test> isn't supported and may not work as expected
+1649548005381	geckodriver	INFO	Listening on 127.0.0.1:60655
+1649548005800	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "46655" "-no-remote" "-profile" "/tmp/rust_mozprofilei1yzVF"
+Gtk-Message: 20:46:52.501: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:46:52.523: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Fontconfig warning: "/etc/fonts/conf.avail/53-monospace-lcd-filter.conf", line 10: Having multiple values in <test> isn't supported and may not work as expected
+1649548172122	geckodriver	INFO	Listening on 127.0.0.1:39609
+1649548172128	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "56381" "-no-remote" "-profile" "/tmp/rust_mozprofilesw1lWT"
+Gtk-Message: 20:49:32.651: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:49:32.654: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Fontconfig warning: "/etc/fonts/conf.avail/53-monospace-lcd-filter.conf", line 10: Having multiple values in <test> isn't supported and may not work as expected
+1649548523877	geckodriver	INFO	Listening on 127.0.0.1:49653
+1649548523883	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "50333" "-no-remote" "-profile" "/tmp/rust_mozprofileeVtCtV"
+Gtk-Message: 20:55:24.358: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:55:24.360: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Fontconfig warning: "/etc/fonts/conf.avail/53-monospace-lcd-filter.conf", line 10: Having multiple values in <test> isn't supported and may not work as expected
+1649548889545	geckodriver	INFO	Listening on 127.0.0.1:44821
+1649548889551	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "60077" "-no-remote" "-profile" "/tmp/rust_mozprofileh1wwOF"
+Gtk-Message: 21:01:29.969: Failed to load module "canberra-gtk-module"
+Gtk-Message: 21:01:29.970: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Fontconfig warning: "/etc/fonts/conf.avail/53-monospace-lcd-filter.conf", line 10: Having multiple values in <test> isn't supported and may not work as expected
+1649548909946	geckodriver	INFO	Listening on 127.0.0.1:58721
+1649548909951	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "54127" "-no-remote" "-profile" "/tmp/rust_mozprofileym6fFd"
+Gtk-Message: 21:01:50.371: Failed to load module "canberra-gtk-module"
+Gtk-Message: 21:01:50.373: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Fontconfig warning: "/etc/fonts/conf.avail/53-monospace-lcd-filter.conf", line 10: Having multiple values in <test> isn't supported and may not work as expected
+1649549970161	geckodriver	INFO	Listening on 127.0.0.1:36057
+1649549970628	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43283" "-no-remote" "-profile" "/tmp/rust_mozprofilee1KG9K"
+1649549974912	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee1KG9K/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43283/devtools/browser/dd4fa7df-407c-4cc9-b30b-0f327f91de15
+1649549978179	Marionette	INFO	Listening on port 36763
+1649549978535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649550118561	Marionette	INFO	Stopped listening on port 36763
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649550195699	geckodriver	INFO	Listening on 127.0.0.1:52553
+1649550195704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41821" "-no-remote" "-profile" "/tmp/rust_mozprofileQIJKo7"
+1649550197645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQIJKo7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41821/devtools/browser/d78199b7-44d6-4849-bf76-03c0bd6b1c0a
+1649550200940	Marionette	INFO	Listening on port 33197
+1649550201065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649550313602	Marionette	INFO	Stopped listening on port 33197
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
